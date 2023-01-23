@@ -135,4 +135,3 @@ int print_S(va_list arg, params_t *params)
 	}
 	return (sum);
 }
-
